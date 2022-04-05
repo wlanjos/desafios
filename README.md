@@ -1,3 +1,11 @@
+# Como executar projeto
+*******************************
+Na pasta exe possui dois arquivos "id.exe" e "banner.txt" para executar o projeto basta realizar um duplo clique no "id.exe"
+
+Para executar o projeto em um IDE de escolha, basta executar a classe Main que está no diretorio "src/main/java/idwall/desafio/Main.java"
+*******************************
+
+
 # Desafios IDwall
 
 Aqui estão os desafios para a primeira fase de testes de candidatos da IDwall.

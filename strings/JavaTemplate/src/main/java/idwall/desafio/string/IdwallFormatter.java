@@ -24,7 +24,6 @@ public class IdwallFormatter extends StringFormatter {
         int contador = 0;
 
 
-
         for (String palavra : palavras) {
 
             if (palavra.contains("\n")) {
@@ -63,13 +62,18 @@ public class IdwallFormatter extends StringFormatter {
             }
 
         }
-        StringBuilder textoFinal = formatada.deleteCharAt(formatada.length() - 1);
+        String textoFinal = formatada.toString().trim();
 
-        if (justificar) justificarLinha(textoFinal.toString());
+        /*     StringBuilder textoFinal = formatada.deleteCharAt(formatada.length() - 1);*/
 
+        if (justificar) {
+            return String.valueOf(justificarLinha(textoFinal));
+        } else {
+            return textoFinal;
+        }
 
-        return String.valueOf(textoFinal);
     }
+
 
 
     public StringBuilder justificarLinha(String textoFinal) {
@@ -77,8 +81,6 @@ public class IdwallFormatter extends StringFormatter {
         String[] linhas = textoFinal.split("\n");
         StringBuilder linhaTratada = new StringBuilder();
         StringBuilder linhajustificada = new StringBuilder();
-
-
 
 
         for (String linha : linhas) {
@@ -116,7 +118,7 @@ public class IdwallFormatter extends StringFormatter {
                     }
 
                 }
-            }else {
+            } else {
                 linhajustificada.append(linhaTratada.append(linha).append("\n"));
                 linhaTratada = new StringBuilder();
             }

@@ -1,0 +1,23 @@
+
+//                                                                                                          
+//                        dddddddd                                                                          
+//  IIIIIIIIII            d::::::dWWWWWWWW                           WWWWWWWW               lllllll lllllll 
+//  I::::::::I            d::::::dW::::::W                           W::::::W               l:::::l l:::::l 
+//  I::::::::I            d::::::dW::::::W                           W::::::W               l:::::l l:::::l 
+//  II::::::II            d:::::d W::::::W                           W::::::W               l:::::l l:::::l 
+//    I::::I      ddddddddd:::::d  W:::::W           WWWWW           W:::::Waaaaaaaaaaaaa    l::::l  l::::l 
+//    I::::I    dd::::::::::::::d   W:::::W         W:::::W         W:::::W a::::::::::::a   l::::l  l::::l 
+//    I::::I   d::::::::::::::::d    W:::::W       W:::::::W       W:::::W  aaaaaaaaa:::::a  l::::l  l::::l 
+//    I::::I  d:::::::ddddd:::::d     W:::::W     W:::::::::W     W:::::W            a::::a  l::::l  l::::l 
+//    I::::I  d::::::d    d:::::d      W:::::W   W:::::W:::::W   W:::::W      aaaaaaa:::::a  l::::l  l::::l 
+//    I::::I  d:::::d     d:::::d       W:::::W W:::::W W:::::W W:::::W     aa::::::::::::a  l::::l  l::::l 
+//    I::::I  d:::::d     d:::::d        W:::::W:::::W   W:::::W:::::W     a::::aaaa::::::a  l::::l  l::::l 
+//    I::::I  d:::::d     d:::::d         W:::::::::W     W:::::::::W     a::::a    a:::::a  l::::l  l::::l 
+//  II::::::IId::::::ddddd::::::dd         W:::::::W       W:::::::W      a::::a    a:::::a l::::::ll::::::l
+//  I::::::::I d:::::::::::::::::d          W:::::W         W:::::W       a:::::aaaa::::::a l::::::ll::::::l
+//  I::::::::I  d:::::::::ddd::::d           W:::W           W:::W         a::::::::::aa:::al::::::ll::::::l
+//  IIIIIIIIII   ddddddddd   ddddd            WWW             WWW           aaaaaaaaaa  aaaallllllllllllllll
+//                                                                                                          
+//                                                                                                          
+//                                                                                                          
+//                                                                                                          

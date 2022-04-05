@@ -10,7 +10,7 @@ public class Idwall {
 
     public void banner() throws IOException {
 
-        FileInputStream stream = new FileInputStream("strings/banner.txt");
+        FileInputStream stream = new FileInputStream("strings/JavaTemplate/src/main/java/banner.txt");
         InputStreamReader reader = new InputStreamReader(stream);
         BufferedReader br = new BufferedReader(reader);
         String linha = br.readLine();
